@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 3d7f9761c31efa14aa3deddbecc5480f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1082338590228384213
+    second: Small Tileset 1_0
+  - first:
+      213: 606091323716615385
+    second: Small Tileset 1_1
+  - first:
+      213: -383250003006071172
+    second: Small Tileset 1_2
+  - first:
+      213: 2164665656231151780
+    second: Small Tileset 1_3
+  - first:
+      213: 4406142461729604064
+    second: Small Tileset 1_4
+  - first:
+      213: -4595904418171617235
+    second: Small Tileset 1_5
+  - first:
+      213: 1998229743571352032
+    second: Small Tileset 1_6
+  - first:
+      213: -2515480697618181772
+    second: Small Tileset 1_7
+  - first:
+      213: 3914766725237963878
+    second: Small Tileset 1_8
+  - first:
+      213: -7841101622823746762
+    second: Small Tileset 1_9
+  - first:
+      213: 6855898918984276255
+    second: Small Tileset 1_10
+  - first:
+      213: -8601117909497952784
+    second: Small Tileset 1_11
+  - first:
+      213: -1043169514634956887
+    second: Small Tileset 1_12
+  - first:
+      213: -3988433055820801984
+    second: Small Tileset 1_13
+  - first:
+      213: 5020745077135207704
+    second: Small Tileset 1_14
+  - first:
+      213: 5359685448696079489
+    second: Small Tileset 1_15
+  - first:
+      213: -951724442127493103
+    second: Small Tileset 1_16
+  - first:
+      213: 7511153600778358296
+    second: Small Tileset 1_17
+  - first:
+      213: -8178370347903034438
+    second: Small Tileset 1_18
+  - first:
+      213: 1191412253792205434
+    second: Small Tileset 1_19
+  - first:
+      213: -3147562978015821029
+    second: Small Tileset 1_20
+  - first:
+      213: -6354422878844361044
+    second: Small Tileset 1_21
+  - first:
+      213: 5838651772935497781
+    second: Small Tileset 1_22
+  - first:
+      213: -9018510380970787195
+    second: Small Tileset 1_23
+  - first:
+      213: 4756979277564403775
+    second: Small Tileset 1_24
+  - first:
+      213: -3675559886483004960
+    second: Small Tileset 1_25
+  - first:
+      213: -1029707896890270550
+    second: Small Tileset 1_26
+  - first:
+      213: 7081631770147225077
+    second: Small Tileset 1_27
+  - first:
+      213: 4913187903037943399
+    second: Small Tileset 1_28
+  - first:
+      213: -1895021352034835155
+    second: Small Tileset 1_29
+  - first:
+      213: 2063167507851005220
+    second: Small Tileset 1_30
+  - first:
+      213: -1644563330238795791
+    second: Small Tileset 1_31
+  - first:
+      213: 4950156113682984482
+    second: Small Tileset 1_32
+  - first:
+      213: -30514897377932585
+    second: Small Tileset 1_33
+  - first:
+      213: -8062366677680826254
+    second: Small Tileset 1_34
+  - first:
+      213: -7889335060987060649
+    second: Small Tileset 1_35
+  - first:
+      213: 5025924709886466213
+    second: Small Tileset 1_36
+  - first:
+      213: -2062974026021756533
+    second: Small Tileset 1_37
+  - first:
+      213: 1235665289563717092
+    second: Small Tileset 1_38
+  - first:
+      213: -7256184078030085531
+    second: Small Tileset 1_39
+  - first:
+      213: 2825205061360152188
+    second: Small Tileset 1_40
+  - first:
+      213: 1000679404764422771
+    second: Small Tileset 1_41
+  - first:
+      213: -6880528833226682551
+    second: Small Tileset 1_42
+  - first:
+      213: -6518324897748999097
+    second: Small Tileset 1_43
+  - first:
+      213: -8392859459874385508
+    second: Small Tileset 1_44
+  - first:
+      213: -2755888702059100119
+    second: Small Tileset 1_45
+  - first:
+      213: -2329538603385360563
+    second: Small Tileset 1_46
+  - first:
+      213: 7213119295419497617
+    second: Small Tileset 1_47
+  - first:
+      213: 7473586283484363819
+    second: Small Tileset 1_48
+  - first:
+      213: -8765650661460573118
+    second: Small Tileset 1_49
+  - first:
+      213: 5263950989275696412
+    second: Small Tileset 1_50
+  - first:
+      213: 3211462008858252207
+    second: Small Tileset 1_51
+  - first:
+      213: -2345048569579300789
+    second: Small Tileset 1_52
+  - first:
+      213: 2387757274519100950
+    second: Small Tileset 1_53
+  - first:
+      213: 5557484574169868184
+    second: Small Tileset 1_54
+  - first:
+      213: -1799523391582720579
+    second: Small Tileset 1_55
+  - first:
+      213: -2327254310096427650
+    second: Small Tileset 1_56
+  - first:
+      213: -5442983026266411875
+    second: Small Tileset 1_57
+  - first:
+      213: 7968581597876628828
+    second: Small Tileset 1_58
+  - first:
+      213: -8853859354621430509
+    second: Small Tileset 1_59
+  - first:
+      213: -2807636724421738034
+    second: Small Tileset 1_60
+  - first:
+      213: 8414279371024289081
+    second: Small Tileset 1_61
+  - first:
+      213: 2866544437278715529
+    second: Small Tileset 1_62
+  - first:
+      213: 8985348304346285003
+    second: Small Tileset 1_63
+  - first:
+      213: 835170364564755971
+    second: Small Tileset 1_64
+  - first:
+      213: 7801698847848487975
+    second: Small Tileset 1_65
+  - first:
+      213: 8698995516837339786
+    second: Small Tileset 1_66
+  - first:
+      213: 5734495223672592924
+    second: Small Tileset 1_67
+  - first:
+      213: 121142079059263571
+    second: Small Tileset 1_68
+  - first:
+      213: -154320136155028663
+    second: Small Tileset 1_69
+  - first:
+      213: 759524731103585404
+    second: Small Tileset 1_70
+  - first:
+      213: -3851789682536539430
+    second: Small Tileset 1_71
+  - first:
+      213: -8114779846613775429
+    second: Small Tileset 1_72
+  - first:
+      213: -2472520870355259719
+    second: Small Tileset 1_73
+  - first:
+      213: -3966785547689168244
+    second: Small Tileset 1_74
+  - first:
+      213: -8362799779905200119
+    second: Small Tileset 1_75
+  - first:
+      213: -5180807582260594191
+    second: Small Tileset 1_76
+  - first:
+      213: 7698608012568350101
+    second: Small Tileset 1_77
+  - first:
+      213: -3997257221896827613
+    second: Small Tileset 1_78
+  - first:
+      213: 5610239141912766743
+    second: Small Tileset 1_79
+  - first:
+      213: -8421931562574494823
+    second: Small Tileset 1_80
+  - first:
+      213: 19976575270162280
+    second: Small Tileset 1_81
+  - first:
+      213: 8577616170913563041
+    second: Small Tileset 1_82
+  - first:
+      213: -919915949929356639
+    second: Small Tileset 1_83
+  - first:
+      213: 4876543738634376248
+    second: Small Tileset 1_84
+  - first:
+      213: -6589565297736825705
+    second: Small Tileset 1_85
+  - first:
+      213: 2172157348890841555
+    second: Small Tileset 1_86
+  - first:
+      213: 7006933055901950482
+    second: Small Tileset 1_87
+  - first:
+      213: 28899615514168791
+    second: Small Tileset 1_88
+  - first:
+      213: -6107178875706322045
+    second: Small Tileset 1_89
+  - first:
+      213: 4420316618754762618
+    second: Small Tileset 1_90
+  - first:
+      213: 4355013349477375247
+    second: Small Tileset 1_91
+  - first:
+      213: 3238637038099807985
+    second: Small Tileset 1_92
+  - first:
+      213: 6838772102359156297
+    second: Small Tileset 1_93
+  - first:
+      213: -4386799257444513421
+    second: Small Tileset 1_94
+  - first:
+      213: 8233794403912213686
+    second: Small Tileset 1_95
+  - first:
+      213: 46946247202435900
+    second: Small Tileset 1_96
+  - first:
+      213: -8531238873132800899
+    second: Small Tileset 1_97
+  - first:
+      213: -2726950143815787392
+    second: Small Tileset 1_98
+  - first:
+      213: -4053192400158364414
+    second: Small Tileset 1_99
+  - first:
+      213: -5970390724924402103
+    second: Small Tileset 1_100
+  - first:
+      213: 5125127740027064809
+    second: Small Tileset 1_101
+  - first:
+      213: 7876065152723374761
+    second: Small Tileset 1_102
+  - first:
+      213: -6099570455458440861
+    second: Small Tileset 1_103
+  - first:
+      213: -1259011835731771008
+    second: Small Tileset 1_104
+  - first:
+      213: 3148293158391009486
+    second: Small Tileset 1_105
+  - first:
+      213: 4338700636389928663
+    second: Small Tileset 1_106
+  - first:
+      213: -476836129569496593
+    second: Small Tileset 1_107
+  - first:
+      213: -8931860631432170219
+    second: Small Tileset 1_108
+  - first:
+      213: -5359347213901424144
+    second: Small Tileset 1_109
+  - first:
+      213: 2540854748028893968
+    second: Small Tileset 1_110
+  - first:
+      213: 8751773389646621104
+    second: Small Tileset 1_111
+  - first:
+      213: 2259866702309854949
+    second: Small Tileset 1_112
+  - first:
+      213: -4680915879303944757
+    second: Small Tileset 1_113
+  - first:
+      213: -8421330274374116911
+    second: Small Tileset 1_114
+  - first:
+      213: -647928976150427412
+    second: Small Tileset 1_115
+  - first:
+      213: -817392038750313391
+    second: Small Tileset 1_116
+  - first:
+      213: -3907394416546912385
+    second: Small Tileset 1_117
+  - first:
+      213: 4027128553435710667
+    second: Small Tileset 1_118
+  - first:
+      213: 4149966908741495004
+    second: Small Tileset 1_119
+  - first:
+      213: 6734021781660143089
+    second: Small Tileset 1_120
+  - first:
+      213: 3845521569153553466
+    second: Small Tileset 1_121
+  - first:
+      213: 1148859196622524863
+    second: Small Tileset 1_122
+  - first:
+      213: -680355240957427587
+    second: Small Tileset 1_123
+  - first:
+      213: -8156269086533365120
+    second: Small Tileset 1_124
+  - first:
+      213: -8537770867982943693
+    second: Small Tileset 1_125
+  - first:
+      213: -4312632944094571717
+    second: Small Tileset 1_126
+  - first:
+      213: -3790215954218201974
+    second: Small Tileset 1_127
+  - first:
+      213: -6918088830605074136
+    second: Small Tileset 1_128
+  - first:
+      213: 1158768539817427145
+    second: Small Tileset 1_129
+  - first:
+      213: -6754522856150228989
+    second: Small Tileset 1_130
+  - first:
+      213: -5990127506874577425
+    second: Small Tileset 1_131
+  - first:
+      213: -4434702200778930703
+    second: Small Tileset 1_132
+  - first:
+      213: 7420958422052493298
+    second: Small Tileset 1_133
+  - first:
+      213: 3443419527523136469
+    second: Small Tileset 1_134
+  - first:
+      213: -4740206635265099618
+    second: Small Tileset 1_135
+  - first:
+      213: 7891902724149338893
+    second: Small Tileset 1_136
+  - first:
+      213: -5706651128256412832
+    second: Small Tileset 1_137
+  - first:
+      213: 3450345319221090789
+    second: Small Tileset 1_138
+  - first:
+      213: -1575239675069843464
+    second: Small Tileset 1_139
+  - first:
+      213: 1822557905367952409
+    second: Small Tileset 1_140
+  - first:
+      213: -8833260109369023051
+    second: Small Tileset 1_141
+  - first:
+      213: 73219878268042053
+    second: Small Tileset 1_142
+  - first:
+      213: 4444915328137506374
+    second: Small Tileset 1_143
+  - first:
+      213: -3588242681873313003
+    second: Small Tileset 1_144
+  - first:
+      213: -1479345511534875687
+    second: Small Tileset 1_145
+  - first:
+      213: 3462203384902765616
+    second: Small Tileset 1_146
+  - first:
+      213: 1442257162736034234
+    second: Small Tileset 1_147
+  - first:
+      213: 1770555112451781080
+    second: Small Tileset 1_148
+  - first:
+      213: -1811627645085298375
+    second: Small Tileset 1_149
+  - first:
+      213: 3459507516983365792
+    second: Small Tileset 1_150
+  - first:
+      213: -6080817738333010990
+    second: Small Tileset 1_151
+  - first:
+      213: 7931614939220171417
+    second: Small Tileset 1_152
+  - first:
+      213: -4903206315494433371
+    second: Small Tileset 1_153
+  - first:
+      213: 6695551455508462396
+    second: Small Tileset 1_154
+  - first:
+      213: -2853183005629388627
+    second: Small Tileset 1_155
+  - first:
+      213: -242054671922434599
+    second: Small Tileset 1_156
+  - first:
+      213: 1736791874839457446
+    second: Small Tileset 1_157
+  - first:
+      213: 1582234884164816803
+    second: Small Tileset 1_158
+  - first:
+      213: -2306190062917364095
+    second: Small Tileset 1_159
+  - first:
+      213: 2869424449172592932
+    second: Small Tileset 1_160
+  - first:
+      213: -9022353847508915331
+    second: Small Tileset 1_161
+  - first:
+      213: 6232306094896175900
+    second: Small Tileset 1_162
+  - first:
+      213: -8504558982787278540
+    second: Small Tileset 1_163
+  - first:
+      213: 2550547537848394611
+    second: Small Tileset 1_164
+  - first:
+      213: 8388475852637494022
+    second: Small Tileset 1_165
+  - first:
+      213: 1765538102932190757
+    second: Small Tileset 1_166
+  - first:
+      213: 3329325764023972881
+    second: Small Tileset 1_167
+  - first:
+      213: -9126951054913284314
+    second: Small Tileset 1_168
+  - first:
+      213: -1415670436810189264
+    second: Small Tileset 1_169
+  - first:
+      213: 1375199630254006327
+    second: Small Tileset 1_170
+  - first:
+      213: 3530467670468829646
+    second: Small Tileset 1_171
+  - first:
+      213: -4790918436855868450
+    second: Small Tileset 1_172
+  - first:
+      213: 6243193197064307857
+    second: Small Tileset 1_173
+  - first:
+      213: -1120922802966446437
+    second: Small Tileset 1_174
+  - first:
+      213: -989173449011100519
+    second: Small Tileset 1_175
+  - first:
+      213: 2307233574105768482
+    second: Small Tileset 1_176
+  - first:
+      213: 6964733391019475126
+    second: Small Tileset 1_177
+  - first:
+      213: 6333086337342161666
+    second: Small Tileset 1_178
+  - first:
+      213: -6368427472906622087
+    second: Small Tileset 1_179
+  - first:
+      213: 1899583317115235075
+    second: Small Tileset 1_180
+  - first:
+      213: -3275501048384810441
+    second: Small Tileset 1_181
+  - first:
+      213: 3038805166423485713
+    second: Small Tileset 1_182
+  - first:
+      213: 180493073583728229
+    second: Small Tileset 1_183
+  - first:
+      213: 1124505644979122586
+    second: Small Tileset 1_184
+  - first:
+      213: -5507980529784398867
+    second: Small Tileset 1_185
+  - first:
+      213: 5873153058510339897
+    second: Small Tileset 1_186
+  - first:
+      213: 3393450253288109125
+    second: Small Tileset 1_187
+  - first:
+      213: 5125171563522769068
+    second: Small Tileset 1_188
+  - first:
+      213: 5712716893888042668
+    second: Small Tileset 1_189
+  - first:
+      213: 8356974894690630441
+    second: Small Tileset 1_190
+  - first:
+      213: -8047108294682506846
+    second: Small Tileset 1_191
+  - first:
+      213: 6245468257113199953
+    second: Small Tileset 1_192
+  - first:
+      213: 7226155858107527618
+    second: Small Tileset 1_193
+  - first:
+      213: 3137155511704794532
+    second: Small Tileset 1_194
+  - first:
+      213: 4946619327891116288
+    second: Small Tileset 1_195
+  - first:
+      213: -1813873322940994400
+    second: Small Tileset 1_196
+  - first:
+      213: 9060080863373901617
+    second: Small Tileset 1_197
+  - first:
+      213: -1178630483689372103
+    second: Small Tileset 1_198
+  - first:
+      213: -7435161970479684481
+    second: Small Tileset 1_199
+  - first:
+      213: 6187003061875714795
+    second: Small Tileset 1_200
+  - first:
+      213: -6390994254355120372
+    second: Small Tileset 1_201
+  - first:
+      213: 4512585857219756441
+    second: Small Tileset 1_202
+  - first:
+      213: 7364849606562061948
+    second: Small Tileset 1_203
+  - first:
+      213: 8239026554899409602
+    second: Small Tileset 1_204
+  - first:
+      213: -4522780006857499543
+    second: Small Tileset 1_205
+  - first:
+      213: -4248956596968603201
+    second: Small Tileset 1_206
+  - first:
+      213: -1712903312799222003
+    second: Small Tileset 1_207
+  - first:
+      213: 6882891124620427073
+    second: Small Tileset 1_208
+  - first:
+      213: -7626170713771518619
+    second: Small Tileset 1_209
+  - first:
+      213: -8894863496505738416
+    second: Small Tileset 1_210
+  - first:
+      213: -6625211999629514241
+    second: Small Tileset 1_211
+  - first:
+      213: -7274685274798638854
+    second: Small Tileset 1_212
+  - first:
+      213: -343055662684149272
+    second: Small Tileset 1_213
+  - first:
+      213: 7284982844846444679
+    second: Small Tileset 1_214
+  - first:
+      213: -6841713754610848151
+    second: Small Tileset 1_215
+  - first:
+      213: 7706191188847441813
+    second: Small Tileset 1_216
+  - first:
+      213: 5710127729218306511
+    second: Small Tileset 1_217
+  - first:
+      213: -5614833928596733842
+    second: Small Tileset 1_218
+  - first:
+      213: 3665060880976330598
+    second: Small Tileset 1_219
+  - first:
+      213: -5787544251054856722
+    second: Small Tileset 1_220
+  - first:
+      213: 9105746192717548730
+    second: Small Tileset 1_221
+  - first:
+      213: -6043924378228167765
+    second: Small Tileset 1_222
+  - first:
+      213: 7511115502082918355
+    second: Small Tileset 1_223
+  - first:
+      213: -3509261641064433704
+    second: Small Tileset 1_224
+  - first:
+      213: 3567817088508271458
+    second: Small Tileset 1_225
+  - first:
+      213: 779561043709110367
+    second: Small Tileset 1_226
+  - first:
+      213: 2377856688598826663
+    second: Small Tileset 1_227
+  - first:
+      213: -967557964025692275
+    second: Small Tileset 1_228
+  - first:
+      213: 2960470285475000861
+    second: Small Tileset 1_229
+  - first:
+      213: -7331723132826017427
+    second: Small Tileset 1_230
+  - first:
+      213: 3012569678846069728
+    second: Small Tileset 1_231
+  - first:
+      213: -138852110479965004
+    second: Small Tileset 1_232
+  - first:
+      213: 6338620365487294930
+    second: Small Tileset 1_233
+  - first:
+      213: -3642286546278600746
+    second: Small Tileset 1_234
+  - first:
+      213: 8079669679399232078
+    second: Small Tileset 1_235
+  - first:
+      213: 8001850911334083859
+    second: Small Tileset 1_236
+  - first:
+      213: -3721592911431092685
+    second: Small Tileset 1_237
+  - first:
+      213: 2920319560767715991
+    second: Small Tileset 1_238
+  - first:
+      213: -1662241146759625322
+    second: Small Tileset 1_239
+  - first:
+      213: 4614699886476462593
+    second: Small Tileset 1_240
+  - first:
+      213: 9146447315553491194
+    second: Small Tileset 1_241
+  - first:
+      213: 5135182376225808844
+    second: Small Tileset 1_242
+  - first:
+      213: 1828620701025122427
+    second: Small Tileset 1_243
+  - first:
+      213: 4605566499339447365
+    second: Small Tileset 1_244
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small Tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267db269c2caf0f0800000000000000
+      internalID: -1082338590228384213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc339309d4496800800000000000000
+      internalID: 606091323716615385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed7ae172c6eaaf0800000000000000
+      internalID: -383250003006071172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8452902ff6a0e10800000000000000
+      internalID: 2164665656231151780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e188256933c52d30800000000000000
+      internalID: 4406142461729604064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b03d5d532bbb10800000000000000
+      internalID: 1998229743571352032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471dd1312a7371dd0800000000000000
+      internalID: -2515480697618181772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf354689b045630800000000000000
+      internalID: 3914766725237963878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330ad33e9fce2390800000000000000
+      internalID: -7841101622823746762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19da022ebb052f50800000000000000
+      internalID: 6855898918984276255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5cf1df4d0b2a880800000000000000
+      internalID: -8601117909497952784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afaaa77adae581f0800000000000000
+      internalID: -1043169514634956887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481061744d36a8c0800000000000000
+      internalID: -3988433055820801984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6f6eeb054da540800000000000000
+      internalID: 5020745077135207704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842c5dc48d616a40800000000000000
+      internalID: 5359685448696079489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181fee89abcac2f0800000000000000
+      internalID: -951724442127493103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e4ac3776afc3860800000000000000
+      internalID: 7511153600778358296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd6abdf77908e80800000000000000
+      internalID: -8178370347903034438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af458e12fb88010800000000000000
+      internalID: 1191412253792205434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b134233e52c9154d0800000000000000
+      internalID: -3147562978015821029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6edd11f0e80d7a0800000000000000
+      internalID: -6354422878844361044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538660d5ade070150800000000000000
+      internalID: 5838651772935497781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e30133790d7d280800000000000000
+      internalID: -9018510380970787195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ee1b037f240240800000000000000
+      internalID: 4756979277564403775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16187d1c9cdfcc0800000000000000
+      internalID: -3675559886483004960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd0779f1eb5b1f0800000000000000
+      internalID: -1029707896890270550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdfeb92392074260800000000000000
+      internalID: 7081631770147225077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea25bdd562f2440800000000000000
+      internalID: 4913187903037943399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ee2ede1883b5e0800000000000000
+      internalID: -1895021352034835155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d4691dae7d1ac10800000000000000
+      internalID: 2063167507851005220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffab7a4d565d29e0800000000000000
+      internalID: -1644563330238795791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6dc222cc72b440800000000000000
+      internalID: 4950156113682984482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4e6dccd6939ff0800000000000000
+      internalID: -30514897377932585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27853ef0938bc1090800000000000000
+      internalID: -8062366677680826254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed4dfbf83738290800000000000000
+      internalID: -7889335060987060649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a814a825ebafb540800000000000000
+      internalID: 5025924709886466213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ad1ead08de53e0800000000000000
+      internalID: -2062974026021756533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb9b5b807f52110800000000000000
+      internalID: 1235665289563717092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562eb24a60bdc4b90800000000000000
+      internalID: -7256184078030085531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
